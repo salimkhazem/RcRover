@@ -1,6 +1,6 @@
 Author : Salim KHAZEM 
 
-License : MIT 
+License : GPL 3  
 
 
 RC Rover is a robotics project that aims to improve rover control through the use of radio frequency and the interaction of rover movement with hand movement using the inertial unit (MPU6050), but also intends to control of this rover by using a joystick. All this is done remotely using the radio frequency Nrf24l01 (2.4Ghz).
